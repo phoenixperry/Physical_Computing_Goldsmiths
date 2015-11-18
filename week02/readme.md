@@ -15,5 +15,3 @@ Task 5: Create this:
 github.com/phoenixperry/visualSynth 
 
 Now using this as inspiration, create your own analog visual synth. It should contain a few new features. Maybe a series of buttons for different notes, or perhaps a different visualization? Lights? A painted keyboard?
-
-Task 6: Make you first LED throwy social interaction! With a few classmates go light something up on campus. NOTE! Clean up after and bring maerials back. Next week we'll make advanced throwies so we'll need the parts. 
