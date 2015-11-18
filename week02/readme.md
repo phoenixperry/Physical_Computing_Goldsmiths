@@ -4,7 +4,8 @@ Assignments:
 
 Task 1: Measure the resistance of a resistor using a multimeter. Make a short video of this and upload it.
 
-Task 2: Hook up a button to turn an LED on when it pressed from your Arduino.  There's a schematic 
+Task 2: Hook up a button to turn an LED on when it pressed from your Arduino.  Here's a schematic 
+![Push button](https://github.com/phoenixperry/Physical_Computing_Goldsmiths/blob/master/week02/circuits/pushbutton_led.png )
 
 Task 3: Hook up a potentiometer you drew using a pencil and clips. Print the results out in the Serial port. Now try a bit of paint. How does it differ? Also try it with some copper tape. See what is the reaction is.
 
