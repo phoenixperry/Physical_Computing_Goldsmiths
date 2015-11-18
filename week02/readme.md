@@ -17,6 +17,7 @@ Here's how a normal knob is hooked up. Remember clips can act as the metal wiper
 
 Task 4: Play one tone using the tone() function  with Arduino. You'll need code that's on github in week02/code here https://github.com/phoenixperry/Physical_Computing_Goldsmiths/blob/master/week02/code/melody/melody.ino
 
+![speaker](https://github.com/phoenixperry/Physical_Computing_Goldsmiths/blob/master/week02/circuits/speaker_bb.png)
 
 Task 5: Create this: 
 
