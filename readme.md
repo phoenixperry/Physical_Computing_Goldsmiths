@@ -21,7 +21,7 @@ The course is separated into Lecture and Lab sections. You must attend the Lab G
 | Number        | Type              | Description   | Due Date   | Relative Weight| 
 | :-------------:|:-------------:| :-----:| :-----:| :-----:| :-----:| :-----:|
 1    | Major Project | Major Project and Project Logs | | 40% | 
-2     | Coursework      |   Online Report for Tasks 1-4 (average of two) | week by week |Sunday night, each week
+2     | Coursework      |   Online Report for Tasks 1-4 (average of two) | week by week |the following Tuesday by 3pm, each week
 3| Participation | Participation (in class and in posts to online forums)      |    n/a | 20%| 
 4|	Mid term Quiz	| Mid-term Quiz |	n/a |	10%
 
