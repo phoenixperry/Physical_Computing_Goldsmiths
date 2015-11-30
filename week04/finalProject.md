@@ -1,4 +1,7 @@
 ##Final Project 
+Make sure you fill out the final project proposal form here 
+https://learn.gold.ac.uk/mod/feedback/view.php?id=126175
+
 The final project makes up a substantial proportion of your mark for the course. This is the approval form for your final project. You will need sign-off from the course tutor, or you will not receive credit for this work. 
 
 You will be assessed on the criteria below. Everything below should be in bold, but that would defeat the purpose of bold text. Your project does not have to be an original idea, but it must to do the following:
@@ -29,8 +32,6 @@ Your participation is part of the project mark. If your project partner is faili
 
 The project proposal is completed as a form (see link below) to be completed one of the project partners. You can specify the names of both team members on the form.
 
-ANSWER THE FOLLOWING QUESTIONS TO SUBMIT YOUR PROJECT PROPOSAL.
+NOMINATE ONE PROJECT PARTNER TO BE THE LEAD OF THE PROJECT TO SUBMIT THE PROPOSAL ON BEHALF OF YOUR GROUP. There is a form here to fill out: 
 
-NOMINATE ONE PROJECT PARTNER TO BE THE LEAD OF THE PROJECT. 
 
-TO SUBMIT THE PROPOSAL ON BEHALF OF YOUR GROUP

@@ -26,7 +26,8 @@ https://github.com/adafruit/Adafruit_MPR121_Library
 
 There's an example in the examples file in the folder. Try it out. 
 
-The wiring for the external IC chip is in the circuits folder for this lab.  
+The wiring for the external IC chip is in the circuits folder for this lab. 
+https://github.com/phoenixperry/Physical_Computing_Goldsmiths/blob/master/week04/circuits/mpr121.png?raw=true  
 
 Make a of someone playing your new instrument. Added bonus? Give it some light! Get creative! Have fun. 
 
