@@ -8,7 +8,7 @@ https://www.arduino.cc/en/Reference/Map
 
 3.2 Add an LED to a PWM pin on the Arduino and change the PWM duty cycle of that LED using the LDR (The closer your hand gets to the LDR, the brighter the LED and vice versa)
 
-3.3 Make this night light
+3.3 Make this night light using the P2N2 transistor in your kit. Experiment with 3v and 5v and see how the sensor changes.  
 http://makezine.com/projects/dark-detecting-led/ 
 
 **Make a short video demonstrating this.** 
