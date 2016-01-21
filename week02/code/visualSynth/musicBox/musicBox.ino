@@ -1,4 +1,4 @@
-//#include "musicBox.h" //this is for our tones and is for reference. 
+#include "musicBox.h" //this is for our tones and is for reference. 
 int knob = A4; //analog pin for the potentiometer 
 
 int btn = 12; //pin for the button 

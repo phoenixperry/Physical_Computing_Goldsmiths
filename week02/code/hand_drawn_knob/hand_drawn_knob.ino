@@ -3,7 +3,7 @@ int knob = A5;
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600); 
-  pinMode(knob,INPUT_PULLUP);
+  pinMode(knob,INPUT);
 }
 
 void loop() {
