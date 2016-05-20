@@ -271,11 +271,16 @@ Mark (contingent on file upload): 70
 
 
 
-######Team: Obumabumnaeme 
+######Team: No name 
+Obumabumnaeme Malu 
 Andrew Njoku  
 
-Project URL: 
+Project URL: https://github.com/AndrewNjoku/Physical-Computing-Final-Project
+
 Feedback: 
+* this project has only done the bare minimum
+* it does not work 
+* it should of been tested and soldered into place  
 
 Mark (contingent on file upload): 52 
 
